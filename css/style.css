@@ -80,3 +80,34 @@ nav > ul > li {
 .imp-1{
   color: #00ADB5;
 }
+
+.img-grid{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  width: 30%;
+  margin-top: 5%;
+  margin-left: 5%;
+  gap: 3%;
+  border-radius: 8px;
+}
+
+.features{
+  display: flex;
+  gap: 25%;
+}
+
+.features-container{
+  margin-top: 10%;
+}
+
+.features-text{
+  font-size: 45px;
+}
+
+.imp-2{
+  color: rgb(149, 142, 142);
+}
+
+.imp-3{
+  color: #00ADB5;
+}
