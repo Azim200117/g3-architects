@@ -144,3 +144,20 @@ nav > ul > li {
   text-align: left;
   color: #b6babe;
 }
+
+.sponsor{
+  margin-top: 7%;
+  margin-left: 5%;
+}
+
+.sponsor-text{
+  font-size: 45px;
+  text-align: center;
+}
+
+.sponsor-img{
+  margin-top: 5%;
+  display: flex;
+  gap: 10%;
+  width: 60%;
+}
